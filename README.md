@@ -1,11 +1,10 @@
-[![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
-![Star this repository](https://img.shields.io/github/stars/rbhatia46/React-Portfolio?style=social)
 
-
-A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
+This is a Portfolio template for developer/designers built with React.js . Use it to showcase your work, testimonials and other information to clients.
 
 ## Preview
-![Preview](https://image.ibb.co/e5uBf0/Capture.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/81668822/207687699-5a189f3c-b3ba-4b2a-a9be-574973836a3e.png)
+
+![Screenshot (32)](https://user-images.githubusercontent.com/81668822/207687709-f66d0442-6fc8-4bf9-b79d-f4258a5a6fc1.png)
 
 ## How to use
 1. Clone/Download the repo.
